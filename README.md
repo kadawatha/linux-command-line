@@ -29,6 +29,13 @@ ls -a
 
 ```
 
+ls -l
+
+```
+
+
+```
+
 cat index.html
 
 ```
@@ -76,5 +83,17 @@ cd
 ```
 
 cd..
+
+```
+
+<hr>
+
+<p>
+"Root" the top of the file system hierarchy
+</p>
+
+```
+
+cd /
 
 ```
