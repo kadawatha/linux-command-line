@@ -97,3 +97,11 @@ cd..
 cd /
 
 ```
+
+<p>remove folder with files</p>
+
+```
+
+rm -rf FolderName
+
+```
