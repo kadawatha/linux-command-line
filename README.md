@@ -107,3 +107,15 @@ cd /
 rm -rf FolderName
 
 ```
+
+
+<p>move file to back directory</p>
+
+<hr>
+
+```
+
+mv FolderName ../
+
+
+```
