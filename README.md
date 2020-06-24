@@ -80,9 +80,11 @@ cd
 
 ```
 
+<p>you need space, after command cd</p>
+
 ```
 
-cd..
+cd ..
 
 ```
 
